@@ -84,11 +84,8 @@ plt.imshow(blank_image)
 plt.show()
 
 ```
-<br>
 </br>
-<br>
 </br>
-<br>
 </br>
 
 ## Output
