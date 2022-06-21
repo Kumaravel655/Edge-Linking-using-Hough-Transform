@@ -1,7 +1,7 @@
 ### Ex.No:08
 ### DATE: 
-# <p align="center">Edge-Detection</p>
- Edge-Linking-using-Hough-Transform
+# <p align="center"> Edge-Linking-using-Hough-Transform</p>
+
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
@@ -25,6 +25,7 @@ Draw lines on the image
 ### Step5:
 Display the result
 
+</br>
 </br>
 </br>
 
